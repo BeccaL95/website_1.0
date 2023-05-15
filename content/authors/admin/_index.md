@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Rebecca Lutz
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Rebecca
+last_name: Lutz
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master's student in psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Vienna
+    url: https://psychologie.univie.ac.at/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -53,7 +53,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/becki_lutz
     label: Follow me on Twitter
     display:
       header: true
@@ -62,7 +62,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/BeccaL95
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -71,7 +71,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Lutz.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
