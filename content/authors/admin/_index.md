@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a Master's student at the University of Vienna. I am interested in social neuroscience, especially in empathy and prosocial behavior as well as pain processing and how placebo/nocebo effects influence them.
+I am currently a Master's student pursuing my MSc in Psychology at the University of Vienna. I am interested in social neuroscience, especially in empathy and prosocial behavior as well as pain processing and how placebo/nocebo effects influence them.
 {style="text-align: justify;"}
