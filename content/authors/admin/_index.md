@@ -18,8 +18,8 @@ role: PhD student / Psychologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Vienna
-    url: https://psychologie.univie.ac.at/
+  - name: The Bingel Laboratory
+    url: https://www.bingellab.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include empathy & prosociality as well as pain processing and how they are influenced by placebo/nocebo effects.
