@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's student in psychology
+role: PhD student / Psychologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a Master's student pursuing my MSc in Psychology at the University of Vienna. I am interested in social neuroscience, especially in empathy and prosocial behavior as well as pain processing and how placebo/nocebo effects influence them.
+I recently finished my MSc in psychology at the Universty of Vienna & graduated with honors. In October 2023 my PhD journey starts. I am a PhD student in the "The Bingel Laboratory" (Translational Pain Research Unit). My interest include social neuroscience, especially empathy and prosocial behavior as well as pain processing and how placebo/nocebo effects influence them.
 {style="text-align: justify;"}
