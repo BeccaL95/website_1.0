@@ -22,14 +22,14 @@ organizations:
     url: https://www.bingellab.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include empathy & prosociality as well as pain processing and how they are influenced by placebo/nocebo effects.
+bio: My interests include placebo & nocebo effects, shared mechanisms between first-hand and empathy for pain, prosocial decision-making as well as neuroimaging and -modulation.
 
 # Interests to show in About widget
 interests:
   - Empathy & Prosociality
   - Pain processing
   - Placebo & nocebo effects
-  - Neuroimaging
+  - Neuroimaging - & modulation
 
 # Education to show in About widget
 education:
