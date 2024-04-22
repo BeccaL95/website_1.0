@@ -22,7 +22,7 @@ organizations:
     url: https://www.bingellab.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include placebo & nocebo effects, shared mechanisms between first-hand and empathy for pain, prosocial decision-making as well as neuroimaging and -modulation.
+bio: I'm interested in shared mechanisms between first-hand and empathy for pain, prosocial decision-making, placebo/nocebo effects, neuroimaging and -modulation.
 
 # Interests to show in About widget
 interests:
@@ -34,11 +34,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
+      - course: PhD in Clinical Neuroscience
+      institution: University of Duisburg-Essen / University Hospital Essen (Germany)
+      year: ongoing
     - course: MSc in Psychology
-      institution: University of Vienna
+      institution: University of Vienna (Austria)
       year: 2023
     - course: BSc in Psychology
-      institution: University of Vienna
+      institution: University of Vienna (Austria)
       year: 2021
 
 # Social/Academic Networking
