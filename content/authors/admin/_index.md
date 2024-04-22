@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-      - course: PhD in Clinical Neuroscience
+    - course: PhD in Clinical Neuroscience
       institution: University of Duisburg-Essen / University Hospital Essen (Germany)
       year: ongoing
     - course: MSc in Psychology
