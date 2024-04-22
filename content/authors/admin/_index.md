@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-I recently finished my MSc in psychology at the Universty of Vienna & graduated with honors. In October 2023 my PhD journey starts. I am a PhD student in the "The Bingel Laboratory" (Translational Pain Research Unit). My interest include social neuroscience, especially empathy and prosocial behavior as well as pain processing and how placebo/nocebo effects influence them.
+I am Rebecca Lutz, a PhD student in Clinical Neuroscience at the University of Duisburg-Essen. At the core of my academic pursuits is a keen interest in how pain impacts affective and cognitive processes, as well as behavior. In my research I want to utilize neuroimaging and behavioral experiments to explore these topics, striving to untangle the effects of pain and expectations. Committed to the principles of open scholarship, I ensure my findings are accessible and reproducible. Beyond the lab, I am passionate about science communication and actively engage in educational outreach. Learn more about [me](/about-rebecca/) or get insights into my [life in academia](/academic-adventures/).
 {style="text-align: justify;"}
