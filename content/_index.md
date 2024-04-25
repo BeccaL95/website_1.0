@@ -211,7 +211,7 @@ sections:
 ##      text: |-
 ##        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: rebecca.lutz@univie.ac.at
+      email: rebecca.lutz@uk-essen.de
 ##      phone: 888 888 88 88
 ##      appointment_url: 'https://calendly.com'
 ##      address:
