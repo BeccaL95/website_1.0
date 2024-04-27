@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-I'm Rebecca, a PhD student in Clinical Neuroscience at the University of Duisburg-Essen. My interests include how pain impacts affective and cognitive processes, as well as behavior. In my research I want to utilize neuroimaging and behavioral experiments to explore these topics. Committed to the principles of open scholarship, I ensure my findings are accessible and reproducible. Learn more about [me](/about-rebecca/) or get insights into my [life in academia](/academic-adventures/).
+I'm Rebecca, a PhD student in Clinical Neuroscience at the University of Duisburg-Essen. My interests include how pain impacts affective and cognitive processes, as well as behavior. In my research I want to utilize neuroimaging and behavioral experiments to explore these topics. Committed to the principles of open scholarship, I ensure my findings are accessible and reproducible. Learn more about [me](/about-me/) or get insights into my [life in academia](/academic-adventures/).
 {style="text-align: justify;"}

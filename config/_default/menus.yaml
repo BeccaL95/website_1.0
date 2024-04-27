@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: About Rebecca
-    url: '/about-rebecca/'
+  - name: About Me
+    url: '/about-me/'
     weight: 20
   - name: Research
     url: '/research/'
