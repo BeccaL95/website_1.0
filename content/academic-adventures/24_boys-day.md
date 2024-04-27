@@ -17,7 +17,7 @@ Following my introduction, we had a playful MRI game, where the boys had to gues
 
 One of the highlights of the morning was the rubber hand illusion experiment. This fun experiment shows how our brains can be tricked into feeling sensations from a fake hand as if it were part of our own body. 
 
-![Rubber Hand Illusion Experiment](/static/uploads/academic-adventures/rubber-hand-illusion.jpg)
+![Rubber Hand Illusion Experiment](/uploads/academic-adventures/rubber-hand-illusion.jpg)
 *Engaging with the rubber hand illusion to demonstrate how our brains perceive the body.*
 
 ### Experiential Learning
@@ -26,7 +26,7 @@ Post-break, another former lab member introduced them to the cold pressure exper
 
 This was followed by a "Brain Crafting" session, where they built model brains as part of a hands-on learning experience about different brain parts. If you want to make one yourself, you can find the templates in all kinds of languages [here](https://ellenjmchenry.com/brain-hemisphere-hat/).
 
-![Crafting Brain Helmets](/static/uploads/academic-adventures/brain-helmet-crafting.jpg/)
+![Crafting Brain Helmets](/uploads/academic-adventures/brain-helmet-crafting.jpg/)
 *Crafting brain helmets*
 
 The day concluded with a session where the boys could ask questions and discuss what they learned.
