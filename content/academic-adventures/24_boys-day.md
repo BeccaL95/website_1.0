@@ -7,7 +7,10 @@ author: "Rebecca Lutz"
 
 ## Boys' Day at the bingellab: What Scientists Do & Why It's Not Just Physicians Who Focus on Pain.
 
-Today was an exciting day at the Bingel Laboratory at the University Hospital Essen, as we welcomed three young science enthusiasts for Boys' Day. This event was a fantastic opportunity for them to dive into the world of medical research and neuroscience.
+Today was an exciting day at the bingellab, as we welcomed three young science enthusiasts for the 2024 Boys' Day. This annual event provides students with a glimpse into diverse careers in the medical field. I was privileged to lead our lab's activities, planning and orchestrating a day filled with hands-on experiments and discussions aimed at sparking their interest in (medical) research and neuroscience.
+
+Today, the Bingel Laboratory at the University Hospital Essen buzzed with excitement as we hosted three young science enthusiasts for Boys' Day 2024. This annual event provides students with a glimpse into diverse careers in the medical field, challenging traditional gender roles. 
+
 
 ### A Day Packed with Activities
 
