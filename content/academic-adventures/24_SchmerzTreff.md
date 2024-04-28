@@ -22,7 +22,7 @@ That's the main question I'm still wondering about. A standout workshop explored
 
 Funfact: I already quite generously use ChatGPT to help me write these posts and to help me turn my website into more of what I want it to be! 
 
-### The Brainstorm That Stirred a Storm
+### Brainstorming Storm
 
 As the event came to an end, one big last brainstorming session tackled the topic of interdisciplinarity. While I appreciated the forward-thinking dialogue, it didn't quite hit the mark for me. Discussions predominantly revolved around integrating interdisciplinary approaches within healthcare settings, focusing on professionals who work directly with patients. This is undeniably a step in the right direction, yet I couldn't help feeling a vital piece of the puzzle was missing.
 
