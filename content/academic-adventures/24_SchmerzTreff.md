@@ -8,7 +8,7 @@ author: "Rebecca Lutz"
 ## Science, medicine and ChatGPT?
 
 The past weekend revolved all around interdisciplinarity & pain for me.
-The SchmerzTreff 2024 in Berlin, orchestrated by the ["Junge Schmerzgesellschaft"](https://www.schmerzgesellschaft.de/topnavi/news-presse/pressemeldungen/pressemeldung-einzelansicht?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=832&cHash=27a1158ae3aa52b864e257c6c6446c13), was a weekend immersion into the multifaceted realm of pain. The focus? To foster a collaborative space where junior staff from diverse pain-related fields could engage in dynamic discourse on topics all around the topic of pain.
+The SchmerzTreff 2024 in Berlin, orchestrated by the ["Junge Schmerzgesellschaft"](https://www.schmerzgesellschaft.de/jungeschmerzgesellschaft), was a weekend immersion into the multifaceted realm of pain. The focus? To foster a collaborative space where junior staff from diverse pain-related fields could engage in dynamic discourse on topics all around the topic of pain.
 
 ### Adventure ahead
 
