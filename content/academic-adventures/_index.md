@@ -11,4 +11,7 @@ Welcome to the Academic Adventures section of my page! Here, I share experiences
 
 Below, you can explore my most recent blog posts:
 
-{{< recentposts >}}
+{{ range first 5 .Site.RegularPages }}
+- [{{ .Title }}]({{ .Permalink }})
+  {{ .Summary }}
+{{ end }}
