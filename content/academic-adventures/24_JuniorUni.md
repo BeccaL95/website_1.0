@@ -1,5 +1,5 @@
 ---
-title: "Junior Uni"
+title: "First time at the Junior Uni"
 date: 2024-02-21
 draft: false
 author: "Rebecca Lutz"
