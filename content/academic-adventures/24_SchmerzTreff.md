@@ -14,11 +14,11 @@ The SchmerzTreff 2024 in Berlin, orchestrated by the ["Junge Schmerzgesellschaft
 
 So from the 19.4 till the 21.4, I found myself in Berlin for the SchmerzTreff 2024. I've been in the city twice before and even though nothing can compare to Vienna, Berlin does have its own charm. Combine that with science and lots of food = almost perfection.
 
-Over the weekend we found ourselves in workshops, talks and eating some really good food. The super diverse cast of participants ranging from physicians, psychotherapists to researchers and more really brought up unique insights. Not all the content (actually most of it didn't) directly aligned with my research interests, but I found that to be quite the plus as it helped me get insights into lines of work I have absolutely no personal connection to otherwise.
+Over the weekend we found ourselves in workshops, talks and eating some really good food. The super diverse cast of participants ranging from physicians, psychotherapists to researchers and more really brought up unique insights. Not all the content (actually most of it) directly aligned with my research interests, but I found that to be quite the plus as it helped me get insights into lines of work I have absolutely no personal connection to otherwise.
 
 ### To ChatGPT or not to ChatGPT?
 
-That's the main question I'm still wondering about. A standout workshop explored the practical applications of ChatGPT in research and clinical settings. The conversation navigated the waters of streamlining tedious tasks even going so far as discussing the use of LLMs for more important steps of the research process. 
+That's the main question I'm still wondering about. A standout workshop explored the practical applications of ChatGPT in research and clinical settings. The conversation revolved around how to use LLMs to deal with tedious tasks and went even so far as discussing the use of LLMs for more important steps of the research process. 
 
 Funfact: I already quite generously use ChatGPT to help me write these posts and to help me turn my website into more of what I want it to be! 
 
