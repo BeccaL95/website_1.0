@@ -22,21 +22,9 @@ That's the main question I'm still wondering about. A standout workshop explored
 
 Funfact: I already quite generously use ChatGPT to help me write these posts and to help me turn my website into more of what I want it to be! 
 
-### Brainstorming Storm
-
-As the event came to an end, one big last brainstorming session tackled the topic of interdisciplinarity. While I appreciated the forward-thinking dialogue, it didn't quite hit the mark for me. Discussions predominantly revolved around integrating interdisciplinary approaches within healthcare settings, focusing on professionals who work directly with patients. This is undeniably a step in the right direction, yet I couldn't help feeling a vital piece of the puzzle was missing.
-
-#### Patient-Centric Perspectives
-
-I believe in the power and necessity of patient-centered discourse. Beyond individual patient encounters, we should amplify voices from the broader community—those living with conditions we're striving to understand and alleviate. There's a nuanced disparity between listening to patients within clinical confines and engaging with them as equal stakeholders. This gap often magnifies issues of power imbalance, societal prejudices, and patients' sense of safety and validation.
-
-#### Bridging Research and Practice
-
-The link between research and healthcare—how findings translate into bedside manners, treatment methods, and patient communication—was another piece of the conversation I found lacking. The fruitful exchange between researchers, clinicians, and patients seems sparse, which leads me to ponder: How effective can interdisciplinary efforts be if they don't actively integrate patient perspectives and research foundations?
-
 ### A Mixed Bag
 
-The weekend left me with mixed feelings. The event was undoubtedly a positive stride towards collective growth and knowledge sharing. Yet, I'm still pondering about the brainstorm session and also how to combine the use of LLMs with my sense of morality / ethics.
+The weekend left me with mixed feelings. The event was undoubtedly a positive stride towards collective growth and knowledge sharing. Yet, I'm still pondering about how to combine the use of LLMs with my sense of morality / ethics.
 
 For now, it's back to the lab.
 
