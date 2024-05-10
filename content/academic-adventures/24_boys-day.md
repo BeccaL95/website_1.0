@@ -19,7 +19,8 @@ One of the highlights of the morning was the rubber hand illusion experiment. Th
 
 ![Rubber Hand Illusion Experiment](/uploads/academic-adventures/rubber-hand-illusion.jpg)
 *Engaging with the rubber hand illusion to demonstrate how our brains perceive the body.*
-
+<br>
+<br>
 ### Experiential Learning
 
 Post-break, another former lab member introduced them to the cold pressure experiment and thermal heat stimuli, allowing the boys to experience firsthand how researchers study pain and sensory perception. 
@@ -28,7 +29,8 @@ This was followed by a "Brain Crafting" session, where they built model brains a
 
 ![Crafting Brain Helmets](/uploads/academic-adventures/brain-helmet-crafting.jpg/)
 *Crafting brain helmets*
-
+<br>
+<br>
 The day concluded with a session where the boys could ask questions and discuss what they learned.
 
 ### Reflections and Impact
