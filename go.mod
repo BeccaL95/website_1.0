@@ -1,8 +1,10 @@
-module github.com/HugoBlox/theme-landing-page
+module github.com/yourusername/your-repo
 
-go 1.19
+go 1.16
 
 require (
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231108143325-448ed0e3bd2b
-	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240519161223-50c6efcd67ff
+    github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.9.0
+    github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.0
+    github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.1.0
+    github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v1.1.0
 )
