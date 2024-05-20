@@ -14,4 +14,3 @@ Outside the lab, I love to unwind with a good book and a cup of coffee. I'm a bi
 
 
 Curious to learn more about my adventures as a PhD student and what I'm up to? Check out my [Academic Adventures page](/academic-adventures/).
-
