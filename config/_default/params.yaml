@@ -9,7 +9,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
-  custom_css: ["/_gen/assets/css/custom.css"] # Ensure this line is present
+  custom_css: ["resources/_gen/assets/css/custom.css"] # Ensure this line is present
 
 
 # SEO
