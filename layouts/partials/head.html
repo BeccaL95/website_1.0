@@ -6,6 +6,13 @@
 
   <!-- Other head elements -->
 
+  {{ if .Site.Params.customCSS }}
+    {{ range .Site.Params.customCSS }}
+      <link rel="stylesheet" href="{{ . | relURL }}">
+    {{ end }}
+  {{ end }}
+
+  <!-- Debugging content to check if custom head.html is loaded -->
   <style>
     body::before {
       content: 'Custom head.html loaded';
@@ -14,12 +21,6 @@
       font-weight: bold;
     }
   </style>
-
-  {{ if .Site.Params.customCSS }}
-    {{ range .Site.Params.customCSS }}
-      <link rel="stylesheet" href="{{ . | relURL }}">
-    {{ end }}
-  {{ end }}
 
   <!-- Other styles and scripts -->
 </head>
