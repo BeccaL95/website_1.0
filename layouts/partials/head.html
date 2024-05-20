@@ -6,11 +6,11 @@
 
   <!-- Other head elements -->
 
-  {{- if .Site.Params.customCSS }}
-    {{- range .Site.Params.customCSS }}
+  {{ if .Site.Params.customCSS }}
+    {{ range .Site.Params.customCSS }}
       <link rel="stylesheet" href="{{ . | relURL }}">
-    {{- end }}
-  {{- end }}
+    {{ end }}
+  {{ end }}
 
   <!-- Other styles and scripts -->
 </head>
