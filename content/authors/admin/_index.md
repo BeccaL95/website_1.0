@@ -1,5 +1,7 @@
 ---
-title: Welcome
+title: "Welcome"
+date: 2024-04-01
+draft: false
 ---
 
 ## Welcome to My Academic Portfolio
@@ -15,7 +17,7 @@ Hey there and welcome to my personal website! I am Rebecca Lutz, a PhD student i
 
 ### Latest Updates
 
-{{< recentposts >}}
+# {{< recentposts >}}
 
 ### Connect with Me
 
