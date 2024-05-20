@@ -15,10 +15,6 @@ Hey there and welcome to my personal website! I am Rebecca Lutz, a PhD student i
 - **[Academic Adventures](/academic-adventures/)**: Follow my experiences in the world of academia, from conferences to workshops and beyond.
 - **[Contact](/contact/)**: Get in touch with me.
 
-### Latest Updates
-
-# {{< recentposts >}}
-
 ### Connect with Me
 
 Stay connected and follow my academic journey on social media:
