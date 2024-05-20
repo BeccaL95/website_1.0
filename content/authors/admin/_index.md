@@ -1,12 +1,13 @@
 ---
 # Display name
 title: "Welcome"
-
-# Is this the primary user of the site?
+date: 2024-04-01
+draft: false
 ---
-### Welcome to My Academic Portfolio
 
-Hey there and welcome to my personal website! I am Rebecca Lutz, a PhD student in Clinical Neuroscience at the University of Duisburg-Essen. This website is dedicated to sharing my research, academic adventures, and professional journey. 
+## Welcome to My Academic Portfolio
+
+Hey there and welcome to my personal website! I am Rebecca Lutz, a PhD student in Clinical Neuroscience at the University of Duisburg-Essen. This website is dedicated to sharing my research, academic adventures, and professional journey.
 
 ### Explore My Site
 
