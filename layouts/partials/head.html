@@ -6,6 +6,15 @@
 
   <!-- Other head elements -->
 
+  <style>
+    body::before {
+      content: 'Custom head.html loaded';
+      display: block;
+      color: red;
+      font-weight: bold;
+    }
+  </style>
+
   {{ if .Site.Params.customCSS }}
     {{ range .Site.Params.customCSS }}
       <link rel="stylesheet" href="{{ . | relURL }}">
