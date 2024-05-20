@@ -11,7 +11,6 @@ Hey there and welcome to my personal website! I am Rebecca Lutz, a PhD student i
 ### Explore My Site
 
 - **[About Me](/about-me/)**: Learn more about my academic background, research interests, and professional journey.
-# - **[Research](/research/)**: Discover my research projects and publications.
 - **[Academic Adventures](/academic-adventures/)**: Follow my experiences in the world of academia, from conferences to workshops and beyond.
 - **[Contact](/contact/)**: Get in touch with me.
 
