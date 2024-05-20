@@ -76,4 +76,4 @@ minify:
 
 # Custom CSS for additional styling
 params:
-  customCSS: ["assets/css/custom.css"]
+  customCSS: ["/_gen/assets/css/custom.css"]
