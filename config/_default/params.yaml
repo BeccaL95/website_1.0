@@ -4,15 +4,15 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: L
+  custom_css: ["css/custom.css"] # Ensure this line is present
+
 
 # SEO
-
 marketing:
   seo:
     site_type: Person
