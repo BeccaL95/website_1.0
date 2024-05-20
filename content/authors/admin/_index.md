@@ -1,7 +1,5 @@
 ---
-title: "Welcome"
-date: 2024-04-01
-draft: false
+title: Welcome
 ---
 
 ## Welcome to My Academic Portfolio
