@@ -1,4 +1,4 @@
-# ---
+---
 # Display name
 title: Rebecca Lutz
 
@@ -74,8 +74,13 @@ social:
     icon_pack: ai
     link: uploads/CV_Lutz.pdf
 
----
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
+---
 Hey there! My name is Rebecca, and I am currently pursuing my PhD in Clinical Neuroscience at the Bingel Laboratory at the University Hospital Essen in Germany.
 
 I have a background in psychology and completed both my bachelor's and master's degrees in my lovely home country, Austria, at the University of Vienna. The master's program I chose focused on the mind & brain (aka neuroscience). I made so many great memories during my time at the University of Vienna and had the opportunity to work in both developmental and biological psychology labs. These two subject areas have fascinated me since the beginning of my bachelor's and continue to guide and influence my path as a researcher. They shape the topics I investigate and how I choose to spend my time outside of my main duties as a PhD student.
