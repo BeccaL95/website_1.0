@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Rebecca Lutz © {year} / Icons by Hugo Blox or by [Icons8](icons8.com)'
+    notice: 'Rebecca Lutz © {year} / Icons by Hugo Blox or by [Icons8](https://icons8.com/)'
     license:
       enable: true
       allow_derivatives: false
