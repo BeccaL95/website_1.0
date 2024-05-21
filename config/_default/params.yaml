@@ -9,8 +9,6 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
-  custom_css: ["css/custom.css"] # Ensure this line is present
-
 
 # SEO
 marketing:
@@ -43,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 'Rebecca Lutz © {year} / Icons by Hugo Blox or by [Icons8](icons8.com)'
     license:
       enable: true
       allow_derivatives: false
