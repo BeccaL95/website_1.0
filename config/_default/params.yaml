@@ -4,10 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+# Appearance settings
 appearance:
-  theme_day: modern
-  theme_night: minimal
-  font: minimal
+  theme_day: ocean
+  theme_night: dark
+  font: Cyberpunk
   font_size: L
 
 # SEO
