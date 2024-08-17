@@ -17,7 +17,7 @@ Energized by a good night’s sleep, we began the second day with some amazing t
 
 The final day arrived all too quickly. After some additional talks and project discussions, we wrapped up with a group photo and closing remarks from our amazing ECR speakers.
 
-![ECRs form the CRC/TRR 289](/uploads/academic-adventures/23SFBretreat.jpg/)
+![ECRs form the CRC/TRR 289](/uploads/academic-adventures/23SFBretreat.jpeg/)
 *ECRs form the CRC/TRR 289*
 <br>
 <br>
