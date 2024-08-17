@@ -259,7 +259,7 @@ draft: false
     <li style="margin-bottom: 20px;">
       <div style="display: flex;">
         <div style="flex: 0 0 150px; font-size: 18px;">
-          <p>2020 – 2021</p>
+          <p>2019 – 2020</p>
         </div>
         <div style="flex: 1; font-size: 18px;">
           <strong>Student Tutor</strong><br>
@@ -267,7 +267,7 @@ draft: false
           <span style="font-size: 14px;"><strong>Course: <a href="https://ufind.univie.ac.at/en/course.html?lv=200210&semester=2020W">“Supervised Orientation Tutorium”</a></strong></span><br>
           <span style="font-size: 14px;">Responsibilities included:</span>
           <ul style="font-size: 14px;">
-            <li>Conducting one in-person and three online seminar sessions</li>
+            <li>Conducting 4 in-person seminar sessions</li>
             <li>Teaching 8 first-year undergraduate psychology students various study-relevant core competencies (e.g., time and learning management) as well as techniques for reading scientific literature</li>
           </ul>
           <span style="font-size: 14px;">Supervisors: Dr Birgit Leidenfrost, Dr Dorothea König</span>
