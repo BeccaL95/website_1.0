@@ -1,7 +1,6 @@
 ---
 title: "ECR retreat"
 date: 2023-11-19
-lastmod: 2023-11-19
 draft: false
 author: "Rebecca Lutz"
 ---
