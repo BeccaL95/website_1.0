@@ -1,6 +1,6 @@
 ---
-title: "mentoring³"
-date: 2024-07-24
+title: "COGNESTIC @ Cambridge"
+date: 2024-09-25
 draft: false
 author: "Rebecca Lutz"
 ---
